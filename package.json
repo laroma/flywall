@@ -8,6 +8,7 @@
     "react-dev-ribbon": "^0.0.5",
     "react-dom": "^16.9.0",
     "react-icons": "^3.7.0",
+    "react-polling": "^1.0.5",
     "react-scripts": "3.1.1",
     "react-table": "^6.10.0"
   },
