@@ -91,7 +91,7 @@
     {
       "id": 12,
       "title": "Uuden keksinnön väitetään karsivan jopa kolmanneksen kerrostalo­asukkaiden lämmityslaskusta",
-      "paywall": true,
+      "paywall": false,
       "predictedDiamond": 49.284389605,
       "reads": 12377,
       "predictedEuros": 344.99072723
