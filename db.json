@@ -51,7 +51,7 @@
     {
       "id": 200000623366,
       "title": "Luonnon ihmeet",
-      "paywall": 0,
+      "paywall": true,
       "predictedDiamond": 67.061433847,
       "reads": 54763,
       "predictedEuros": 469.43003693
@@ -59,7 +59,7 @@
     {
       "id": 200000623425,
       "title": "Alipalautuminen on uusi kansan­tauti, joka kuluttaa kehoa sala­kavalasti, sanoo lääkäri – Näin tunnistat oireet",
-      "paywall": 1,
+      "paywall": true,
       "predictedDiamond": 62.102680348,
       "reads": 79407,
       "predictedEuros": 434.71876244
@@ -67,7 +67,7 @@
     {
       "id": 200000623396,
       "title": "Melkein ruotsalainen",
-      "paywall": 1,
+      "paywall": false,
       "predictedDiamond": 59.181595366,
       "reads": 57822,
       "predictedEuros": 414.27116756
@@ -75,7 +75,7 @@
     {
       "id": 200000623402,
       "title": "HS-analyysi: 20 vuotta sitten Big Brother pilasi hollantilais­miehen elämän, nyt se on jälleen yksi Suomen suosituimmista viihde­ohjelmista, sillä sarja on palannut juur",
-      "paywall": 1,
+      "paywall": true,
       "predictedDiamond": 58.698520994,
       "reads": 3216,
       "predictedEuros": 410.88964696
@@ -83,7 +83,7 @@
     {
       "id": 200000623306,
       "title": "Seitsemän vuoden parisuhdekriisi on vanhentunut käsite: On olemassa toinen hetki, jolloin eroriski kasvaa selvästi",
-      "paywall": 1,
+      "paywall": false,
       "predictedDiamond": 58.413558445,
       "reads": 7337,
       "predictedEuros": 408.89490912
@@ -115,7 +115,7 @@
     {
       "id": 200000623410,
       "title": "Joonas Nordmanin Pelimies oli hävyttömyydessään virkistävän epäsuomalainen sarja – Nyt tarvitsemme uutta poliittista satiiria televisioon",
-      "paywall": 0,
+      "paywall": true,
       "predictedDiamond": 53.108237387,
       "reads": 6583,
       "predictedEuros": 371.75766171
@@ -131,7 +131,7 @@
     {
       "id": 200000623532,
       "title": "Päihteitä, keskiyön kokouksia ja potkut johtamiskeinona: kasvuyhtiöiden supertähden kupla näyttää puhkeavan juuri pörssilistautumisen alla",
-      "paywall": 0,
+      "paywall": true,
       "predictedDiamond": 43.70285912,
       "reads": 56956,
       "predictedEuros": 305.92001384
