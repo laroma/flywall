@@ -1,875 +1,827 @@
 {
   "articles": [
     {
-      "id": 1,
-      "title": "Tuhannet liki huomaamattomat valkoiset laatikot ilmestyivät Helsingin bussipysäkeille: Mistä on kyse?",
-      "paywall": false,
-      "predictedDiamond": 159.77697146,
-      "reads": 53851,
-      "predictedEuros": 1118.4388002
+      "id": 200000623450,
+      "title": "Takarivin poika iskee voimalla",
+      "paywall": 0,
+      "predictedDiamond": 101.84395589,
+      "reads": 8704,
+      "predictedEuros": 712.90769126
     },
     {
-      "id": 2,
-      "title": "”Munauikkarit” jakavat Helsingin uimahallit kahteen leiriin: ”Emme pysty kontrolloimaan mitä siellä alla on”",
-      "paywall": false,
-      "predictedDiamond": 155.33701077,
-      "reads": 59140,
-      "predictedEuros": 1087.3590754
+      "id": 200000623389,
+      "title": "Michael Schumacheria hoidetaan pariisilaisessa sairaalassa kanta­solu­siirroilla – HS kysyi suomalais­asiantuntijalta, mitä hoidolla voi saavuttaa",
+      "paywall": 0,
+      "predictedDiamond": 92.494222808,
+      "reads": 14958,
+      "predictedEuros": 647.45955966
     },
     {
-      "id": 3,
-      "title": "BMW teki niin sysimustan auton, että se näyttää jo kaksiulotteiselta – ja se on vain yksi esimerkki automerkkien kiihtyvästä kilpailusta",
-      "paywall": false,
-      "predictedDiamond": 101.06005194,
-      "reads": 78367,
-      "predictedEuros": 707.4203636
+      "id": 200000623405,
+      "title": "Aikuiskanava Yle Radio Suomi soittaa teinimusiikkia, ja se tekee kuuntelukokemuksesta ristiriitaisen",
+      "paywall": 0,
+      "predictedDiamond": 83.217992398,
+      "reads": 6449,
+      "predictedEuros": 582.52594679
     },
     {
-      "id": 4,
-      "title": "Kännykässäsi on useita käteviä ominaisuuksia, joita et luultavasti ole huomannutkaan – Listasimme yleisimmät",
-      "paywall": true,
-      "predictedDiamond": 93.051783662,
-      "reads": 15972,
-      "predictedEuros": 651.36248564
+      "id": 200000623508,
+      "title": "Henkilöstöjohtaja suututti Vantaan lastensuojelun työntekijät joulupukki-kommentillaan – Ulosmarssia seurasi palkankorotus",
+      "paywall": 0,
+      "predictedDiamond": 81.980251423,
+      "reads": 49450,
+      "predictedEuros": 573.86175996
     },
     {
-      "id": 5,
-      "title": "”Yleisössä voi istua 15-vuotias, joka ajattelee, että tuo hirviö olen minä” – Suomessa on kaksi terapeuttia, jotka tapaavat pedofiileja työkseen ja nyt he kertovat, mitä me emme pedofiileista tiedä",
-      "paywall": true,
-      "predictedDiamond": 89.039795774,
-      "reads": 103336,
-      "predictedEuros": 623.27857042
+      "id": 200000623466,
+      "title": "Dohan MM-kisoista tulossa kaikkien aikojen lipunmyynti­fiasko – IAAF:n Antti Pihlakoski: ”Hyvin luottavaisen oloisia ovat”",
+      "paywall": 0,
+      "predictedDiamond": 75.36016531,
+      "reads": 24215,
+      "predictedEuros": 527.52115717
     },
     {
-      "id": 6,
-      "title": "Finanssivalvonnalta poikkeuksellinen kanta: Lähi-Tapiolan uusi pääjohtaja ei ole pätevä tehtäväänsä",
-      "paywall": false,
-      "predictedDiamond": 86.067233261,
-      "reads": 95358,
-      "predictedEuros": 602.47063283
+      "id": 200000623565,
+      "title": "Rankkasateet aiheuttivat tulvan kadulle Espoossa, palomies kantoi upoksiin joutuneen auton matkustajat turvaan",
+      "paywall": 0,
+      "predictedDiamond": 70.008533418,
+      "reads": 33418,
+      "predictedEuros": 490.05973392
     },
     {
-      "id": 7,
-      "title": "Simo Häyhä oli talvisodan legendaarinen tarkka-ampuja, ja nyt palkittu yhdys­valtalais­kirjailija käsittelee häntä homo­eroottisessa tarinassa",
-      "paywall": true,
-      "predictedDiamond": 76.175258789,
-      "reads": 44647,
-      "predictedEuros": 533.22681152
+      "id": 200000623366,
+      "title": "Luonnon ihmeet",
+      "paywall": 0,
+      "predictedDiamond": 67.061433847,
+      "reads": 54763,
+      "predictedEuros": 469.43003693
     },
     {
-      "id": 8,
-      "title": "Opettaja tarttui kiinni luokkakavereitaan lyöneeseen tokaluokkalaiseen: Kaupunki irtisanoi opettajan ilman varoitusta, oikeus kumosi potkut",
-      "paywall": false,
-      "predictedDiamond": 70.176271857,
-      "reads": 28361,
-      "predictedEuros": 491.233903
+      "id": 200000623425,
+      "title": "Alipalautuminen on uusi kansan­tauti, joka kuluttaa kehoa sala­kavalasti, sanoo lääkäri – Näin tunnistat oireet",
+      "paywall": 1,
+      "predictedDiamond": 62.102680348,
+      "reads": 79407,
+      "predictedEuros": 434.71876244
     },
     {
-      "id": 9,
-      "title": "Reijo Bergström 1941–2019",
-      "paywall": false,
-      "predictedDiamond": 68.130772545,
-      "reads": 1768,
-      "predictedEuros": 476.91540781
+      "id": 200000623396,
+      "title": "Melkein ruotsalainen",
+      "paywall": 1,
+      "predictedDiamond": 59.181595366,
+      "reads": 57822,
+      "predictedEuros": 414.27116756
     },
     {
-      "id": 10,
-      "title": "Mercedes-Benzin maastureita tulvii Saksaan Yhdysvalloista – Varastotilaksi tarvittiin lentokenttä",
-      "paywall": false,
-      "predictedDiamond": 67.017473407,
-      "reads": 54114,
-      "predictedEuros": 469.12231385
+      "id": 200000623402,
+      "title": "HS-analyysi: 20 vuotta sitten Big Brother pilasi hollantilais­miehen elämän, nyt se on jälleen yksi Suomen suosituimmista viihde­ohjelmista, sillä sarja on palannut juur",
+      "paywall": 1,
+      "predictedDiamond": 58.698520994,
+      "reads": 3216,
+      "predictedEuros": 410.88964696
     },
     {
-      "id": 11,
-      "title": "Auto jarrutti yhtäkkiä moottoritiellä ja päätyi sivukaiteeseen – Suomessakin yleistyvä turvallisuusvaruste on aiheuttanut vaaratilanteita Yhdysvalloissa",
-      "paywall": false,
-      "predictedDiamond": 65.805296184,
-      "reads": 22379,
-      "predictedEuros": 460.63707329
+      "id": 200000623306,
+      "title": "Seitsemän vuoden parisuhdekriisi on vanhentunut käsite: On olemassa toinen hetki, jolloin eroriski kasvaa selvästi",
+      "paywall": 1,
+      "predictedDiamond": 58.413558445,
+      "reads": 7337,
+      "predictedEuros": 408.89490912
     },
     {
-      "id": 12,
-      "title": "Uuden keksinnön väitetään karsivan jopa kolmanneksen kerrostalo­asukkaiden lämmityslaskusta",
-      "paywall": false,
-      "predictedDiamond": 49.284389605,
-      "reads": 12377,
-      "predictedEuros": 344.99072723
+      "id": 200000623417,
+      "title": "Suoliston bakteerit määrittävät, miten ihminen voi, ja niitä ohjaa ravintomme – Suomalainen huippu­tutkija kertoo, millaista ruoka­valiota bakteerit janoavat",
+      "paywall": 1,
+      "predictedDiamond": 57.572455082,
+      "reads": 91416,
+      "predictedEuros": 403.00718558
     },
     {
-      "id": 13,
-      "title": "Kommentti: Entisen imperiumin päämies saattaa joutua nyt rukoilemaan EU:lta brexit-lisäaikaa",
-      "paywall": false,
-      "predictedDiamond": 48.823309574,
-      "reads": 32681,
-      "predictedEuros": 341.76316701
+      "id": 200000623497,
+      "title": "Uusi koje nakuttaa pian parkkisakkoja moneen suuntaan yhtäaikaisesti Helsingissä: ”Liikkuu ja kuvaa kaikkialla”",
+      "paywall": 0,
+      "predictedDiamond": 54.833352928,
+      "reads": 18706,
+      "predictedEuros": 383.83347049
     },
     {
-      "id": 14,
-      "title": "Kumppanin vaihto ei juurikaan muuta pari­suhteen dynamiikkaa, paljastaa laaja tutkimus",
-      "paywall": false,
-      "predictedDiamond": 45.23347822,
-      "reads": 13735,
-      "predictedEuros": 316.63434754
+      "id": 200000623488,
+      "title": "Järisyttävä muutos näkyy Frankfurtin automessuilla: autojätit jyräävät sähköautoilla, Volkswagen vertaa omaansa jo kuplavolkkariin",
+      "paywall": 0,
+      "predictedDiamond": 54.693623172,
+      "reads": 12131,
+      "predictedEuros": 382.8553622
     },
     {
-      "id": 15,
-      "title": "Maavoimat julkaisi harvinaisia kuvia pioneereista, jotka miinoittavat käytöstä poistettua asvalttitietä",
-      "paywall": false,
-      "predictedDiamond": 44.355032953,
-      "reads": 42795,
-      "predictedEuros": 310.48523067
+      "id": 200000623410,
+      "title": "Joonas Nordmanin Pelimies oli hävyttömyydessään virkistävän epäsuomalainen sarja – Nyt tarvitsemme uutta poliittista satiiria televisioon",
+      "paywall": 0,
+      "predictedDiamond": 53.108237387,
+      "reads": 6583,
+      "predictedEuros": 371.75766171
     },
     {
-      "id": 16,
-      "title": "Brittiparlamentin brexit-kapinallisille erävoitto äänin 328–301: sopimuksettoman brexitin estäminen voi alkaa tänään",
-      "paywall": false,
-      "predictedDiamond": 42.906032942,
-      "reads": 73282,
-      "predictedEuros": 300.34223059
+      "id": 200000623530,
+      "title": "Jättiyllätys MM-koripallossa: Ranska pudotti USA:n jo puolivälierissä",
+      "paywall": 0,
+      "predictedDiamond": 46.463639136,
+      "reads": 4040,
+      "predictedEuros": 325.24547395
     },
     {
-      "id": 17,
-      "title": "Burning Man on maailman hurjin ja oudoin festivaali, ja tänä vuonna suomalaisarkkitehdit rakensivat autiomaan kuumuuteen saunan",
-      "paywall": false,
-      "predictedDiamond": 42.860785153,
+      "id": 200000623532,
+      "title": "Päihteitä, keskiyön kokouksia ja potkut johtamiskeinona: kasvuyhtiöiden supertähden kupla näyttää puhkeavan juuri pörssilistautumisen alla",
+      "paywall": 0,
+      "predictedDiamond": 43.70285912,
+      "reads": 56956,
+      "predictedEuros": 305.92001384
+    },
+    {
+      "id": 200000623376,
+      "title": "Poliisihallitus vaatii United Brotherhoodin määräämistä välittömään toiminta­kieltoon: jengi on järjestäytynyt sotilaalliseen tapaan",
+      "paywall": 0,
+      "predictedDiamond": 42.996285934,
+      "reads": 9620,
+      "predictedEuros": 300.97400154
+    },
+    {
+      "id": 200000623392,
+      "title": "Poliitikkovaimonsa raa’asti murhannut Jarmo Björkqvist pääsee ehdonalaiseen",
+      "paywall": 0,
+      "predictedDiamond": 42.935697116,
+      "reads": 12462,
+      "predictedEuros": 300.54987981
+    },
+    {
+      "id": 200000623493,
+      "title": "Auto päätyi kruunuksi kaupunkipyörä­röykkiön päälle Helsingissä, alkoholilla ei osuutta asiaan",
+      "paywall": 0,
+      "predictedDiamond": 39.575693547,
+      "reads": 15529,
+      "predictedEuros": 277.02985483
+    },
+    {
+      "id": 200000623363,
+      "title": "Työnantaja painosti työntekijän allekirjoittamaan erosopimuksen, korkein oikeus julisti sen pätemättömäksi",
+      "paywall": 0,
+      "predictedDiamond": 38.825348151,
+      "reads": 11941,
+      "predictedEuros": 271.77743705
+    },
+    {
+      "id": 200000623353,
+      "title": "Vantaan entisen kaupunginjohtajan lahjusrikkomustuomio jää voimaan – Korkein oikeus ei myöntänyt valituslupaa",
+      "paywall": 0,
+      "predictedDiamond": 37.181883958,
+      "reads": 11155,
+      "predictedEuros": 260.27318771
+    },
+    {
+      "id": 200000623272,
+      "title": "Amerikkalais­lehdet paljastivat, mitä Valkoisen talon kulisseissa tapahtui Taleban-neuvotteluiden romahduksen alla: Trump syytti mediaa vääristelystä",
+      "paywall": 0,
+      "predictedDiamond": 34.790215766,
+      "reads": 4214,
+      "predictedEuros": 243.53151036
+    },
+    {
+      "id": 200000623333,
+      "title": "Antti Rinteen kommentit ajoivat Postin täyteen pattitilanteeseen",
+      "paywall": 0,
+      "predictedDiamond": 32.645198949,
+      "reads": 17063,
+      "predictedEuros": 228.51639264
+    },
+    {
+      "id": 200000623440,
+      "title": "Kuinka Hongkongin käy?",
+      "paywall": 0,
+      "predictedDiamond": 32.623433229,
+      "reads": 53938,
+      "predictedEuros": 228.3640326
+    },
+    {
+      "id": 200000623511,
+      "title": "Silta-tv-sarjasta tuttu Adam Pålsson näyttelee nuorta Wallanderia tulevassa Netflix-sarjassa",
+      "paywall": 0,
+      "predictedDiamond": 29.00846901,
+      "reads": 1584,
+      "predictedEuros": 203.05928307
+    },
+    {
+      "id": 200000623471,
+      "title": "Le Parisien: Kantasoluhoitoja saava F1-mestari Michael Schumacher on tajuissaan",
+      "paywall": 0,
+      "predictedDiamond": 28.959848689,
+      "reads": 29444,
+      "predictedEuros": 202.71894083
+    },
+    {
+      "id": 200000623559,
+      "title": "Aurinkokunnan ulkopuoliselta planeetalta löytyi ensi kertaa vettä",
+      "paywall": 0,
+      "predictedDiamond": 28.447916611,
+      "reads": 35639,
+      "predictedEuros": 199.13541628
+    },
+    {
+      "id": 200000623446,
+      "title": "Isä kuoli 20 minuuttia sen jälkeen kun vuosien perintö­riita oli sovittu – Juristi Pirita Virtanen tietää, miten juridiset riidat rasittavat, ja vannoo siksi sovittelu",
+      "paywall": 1,
+      "predictedDiamond": 27.714247589,
+      "reads": 29442,
+      "predictedEuros": 193.99973313
+    },
+    {
+      "id": 200000623489,
+      "title": "Mercedes-tallipäällikkö Wolff vakuuttaa: Ocon ei voi ottaa Bottaksen paikkaa kaudelle 2021",
+      "paywall": 0,
+      "predictedDiamond": 24.051066414,
+      "reads": 6924,
+      "predictedEuros": 168.3574649
+    },
+    {
+      "id": 200000623441,
+      "title": "Apple julkisti uusia iPhone-puhelimia ja älykellon, jonka näyttö ei sammu",
+      "paywall": 0,
+      "predictedDiamond": 20.917356756,
+      "reads": 29323,
+      "predictedEuros": 146.42149729
+    },
+    {
+      "id": 200000623448,
+      "title": "Kukkakaalikatastrofit pyritään välttämään reaali­aikaisella sato­tiedolla",
+      "paywall": 0,
+      "predictedDiamond": 18.180573256,
+      "reads": 14354,
+      "predictedEuros": 127.26401279
+    },
+    {
+      "id": 200000623435,
+      "title": "Jasper Pääkkönen on mukana hankkeessa, jossa Lappiin tehdään ”huippulaadukas” matkailukohde",
+      "paywall": 0,
+      "predictedDiamond": 17.174176832,
+      "reads": 8197,
+      "predictedEuros": 120.21923782
+    },
+    {
+      "id": 200000623449,
+      "title": "HS:n tiedot: Postin palkan­alennukset koskisivatkin jopa 8 000:ta työn­tekijää – Pääministeri Rinne väläyttää ratkaisuksi ”tuntuvaa” kerta­korvausta työn­",
+      "paywall": 0,
+      "predictedDiamond": 17.159869221,
+      "reads": 55544,
+      "predictedEuros": 120.11908455
+    },
+    {
+      "id": 200000623516,
+      "title": "Kamppailu tieteen ja uskon rajamailla jatkuu Finlandia-palkitun Taivaanpallo-romaanin jatko-osassa",
+      "paywall": 0,
+      "predictedDiamond": 13.022582631,
+      "reads": 1334,
+      "predictedEuros": 91.158078415
+    },
+    {
+      "id": 200000623433,
+      "title": "Useat yhtiöt kertoivat tiistaina yt-neuvotteluista: HS kysyi ekonomisteilta, mitä se kertoo talousnäkymistä",
+      "paywall": 0,
+      "predictedDiamond": 12.887796719,
+      "reads": 9374,
+      "predictedEuros": 90.214577032
+    },
+    {
+      "id": 200000623548,
+      "title": "Suomalaiset aivotutkijat kumosivat vanhan peruskäsityksen hermoston toiminnasta",
+      "paywall": 0,
+      "predictedDiamond": 12.182555903,
+      "reads": 31823,
+      "predictedEuros": 85.277891324
+    },
+    {
+      "id": 200000623495,
+      "title": "Räikkösen kisainsinööri alkaa päästä samalle sivulle suomalaisen kanssa, vitsailee törttöilevän maanmiehensä kustannuksella",
+      "paywall": 0,
+      "predictedDiamond": 12.088718824,
+      "reads": 6499,
+      "predictedEuros": 84.621031771
+    },
+    {
+      "id": 200000623419,
+      "title": "Opetusministeri Li Andersson haluaa avata et-opetuksen myös kirkkoon kuuluville",
+      "paywall": 0,
+      "predictedDiamond": 11.362850084,
+      "reads": 9272,
+      "predictedEuros": 79.539950587
+    },
+    {
+      "id": 200000623534,
+      "title": "Kun olosuhteet ovat otolliset, myös puolueen linja voi vaihtua nopeasti",
+      "paywall": 1,
+      "predictedDiamond": 9.2514081424,
+      "reads": 3311,
+      "predictedEuros": 64.759856997
+    },
+    {
+      "id": 200000623369,
+      "title": "Vantaalaisen Eero Peltosen ruokahävikki on kymmenesosa keskiarvosta – Näillä kolmella helpolla niksillä jokainen voi päästä samaan tulokseen",
+      "paywall": 0,
+      "predictedDiamond": 8.9474570619,
+      "reads": 16959,
+      "predictedEuros": 62.632199433
+    },
+    {
+      "id": 200000623513,
+      "title": "Tietoisesti ponnistelemalla ei aina opi parhaiten",
+      "paywall": 0,
+      "predictedDiamond": 8.4838507359,
+      "reads": 2364,
+      "predictedEuros": 59.386955152
+    },
+    {
+      "id": 200000623431,
+      "title": "Trump erotti turvallisuus­neuvonantajansa John Boltonin",
+      "paywall": 0,
+      "predictedDiamond": 7.0246231528,
+      "reads": 10424,
+      "predictedEuros": 49.17236207
+    },
+    {
+      "id": 200000623504,
+      "title": "Oikeusistuin vapautti lääkärin syytteistä Hollantia kuohuttaneessa eutanasiassa, jota muisti­sairas nainen oli viime hetkillään vastustellut",
+      "paywall": 0,
+      "predictedDiamond": 6.8628690881,
+      "reads": 27763,
+      "predictedEuros": 48.040083617
+    },
+    {
+      "id": 200000623480,
+      "title": "Englannin tähtipelaaja Raheem Sterling myöntyi fanin poikkeukselliseen pyyntöön ja sai faneilta ylistysryöpyn",
+      "paywall": 0,
+      "predictedDiamond": 6.3038679193,
+      "reads": 4275,
+      "predictedEuros": 44.127075435
+    },
+    {
+      "id": 200000623472,
+      "title": "Kauko Röyhkä on suomirockin paha poika, joka ammentaa seksistä taiteeseensa, mutta poikuutensa hänkin menetti söheltämällä",
+      "paywall": 0,
+      "predictedDiamond": 4.287227511,
+      "reads": 8106,
+      "predictedEuros": 30.010592577
+    },
+    {
+      "id": 200000623499,
+      "title": "Robert Frank oli rosoisen valokuvan mestari, joka näytti Yhdysvaltain luokkaerot ja kuvasi kiistellyn dokumentin Rolling Stonesista",
+      "paywall": 0,
+      "predictedDiamond": 1.4486299598,
+      "reads": 2348,
+      "predictedEuros": 10.140409719
+    },
+    {
+      "id": 200000623474,
+      "title": "Tutkijat löysivät ankeriaan, joka voi aiheuttaa ennätyksellisen voimakkaan sähkö­iskun",
+      "paywall": 0,
+      "predictedDiamond": 1.0852982505,
+      "reads": 12643,
+      "predictedEuros": 7.5970877538
+    },
+    {
+      "id": 200000623443,
+      "title": "Helsingin Pisara-junatunneli vastatuulessa, Espoo saamassa lähi­junien kaupunki­radan",
+      "paywall": 0,
+      "predictedDiamond": 0.7765941554,
+      "reads": 28128,
+      "predictedEuros": 5.4361590879
+    },
+    {
+      "id": 200000623552,
+      "title": "Sitran yliasiamiehen valinta mutkistuu: hallintoneuvosto ei hyväksynyt suoraan hallituksen suosikkia Jyrki Kataista",
+      "paywall": 0,
+      "predictedDiamond": 0.4678720295,
+      "reads": 26238,
+      "predictedEuros": 3.2751042068
+    },
+    {
+      "id": 200000623470,
+      "title": "Jopa pientalon lasiterassin suunnitteluun täytyy palkata arkkitehti – Espoota syytetään järjettömän lupabyrokratian pyörittämisestä",
+      "paywall": 0,
+      "predictedDiamond": 0.2548770246,
+      "reads": 10331,
+      "predictedEuros": 1.7841391722
+    },
+    {
+      "id": 200000623403,
+      "title": "Apollo-kuulennot maksoivat valtavasti, mutta mitä saimme vastineeksi? Ainakin paloturvallisuutta, aivokuvannusta, keinomunuaisen – ja paljon muuta",
+      "paywall": 0,
+      "predictedDiamond": -5.875375035,
+      "reads": 7838,
+      "predictedEuros": -41.12762525
+    },
+    {
+      "id": 200000623526,
+      "title": "Kauppakeskus Triplan työmaalla Pasilassa tulipalo, vahingot eivät vaikuta rakennusaikatauluun",
+      "paywall": 0,
+      "predictedDiamond": -8.324800168,
+      "reads": 22405,
+      "predictedEuros": -58.27360118
+    },
+    {
+      "id": 200000623529,
+      "title": "Mikko Hirvonen ajaa Kyproksen rallin: ”Lähden pitämään hauskaa haastavassa rallissa”",
+      "paywall": 0,
+      "predictedDiamond": -9.931297517,
+      "reads": 510,
+      "predictedEuros": -69.51908262
+    },
+    {
+      "id": 200000623536,
+      "title": "Mika Aaltola nousi Ulkopoliittisen instituutin johtoon tiukassa äänestyksessä – hallitus jakaantui 5–4",
+      "paywall": 0,
+      "predictedDiamond": -11.06171658,
+      "reads": 9679,
+      "predictedEuros": -77.43201603
+    },
+    {
+      "id": 200000623482,
+      "title": "”On jännä, että karkuun lähteminen on ensi ajatus” – alaikäisten huviajelut päättyvät usein takaa-ajon jälkeiseen ulosajoon",
+      "paywall": 0,
+      "predictedDiamond": -11.2450256,
+      "reads": 4132,
+      "predictedEuros": -78.71517921
+    },
+    {
+      "id": 200000623475,
+      "title": "Eeli Tolvanen jatkoi vahvaa virettään ja iski kaksi maalia, Eetu Luostarinen ja Janne Kuokkanen osuivat kerran",
+      "paywall": 0,
+      "predictedDiamond": -16.50989466,
+      "reads": 1867,
+      "predictedEuros": -115.5692626
+    },
+    {
+      "id": 200000623549,
+      "title": "Tutkimus: Ihminen sokaistuu herkästi omasta menestyksestään ja panee onnistumiset omien kykyjensä piikkiin",
+      "paywall": 0,
+      "predictedDiamond": -16.87002168,
+      "reads": 25503,
+      "predictedEuros": -118.0901517
+    },
+    {
+      "id": 200000623568,
+      "title": "Helsingin valtuusto sinetöi Töölön jättihankkeen tonttikauppojen ehdot: ”Päätös auttaa hanketta muissa rahoitus­neuvotteluissa”, Anni Sinnemäki perusteli",
+      "paywall": 0,
+      "predictedDiamond": -17.66219407,
+      "reads": 5605,
+      "predictedEuros": -123.6353585
+    },
+    {
+      "id": 200000623553,
+      "title": "Italiassa tarjotaan kuoleviin pikkukyliin muuttaville tuhansia euroja vuodessa, mutta palkkiolle on yksi ehto",
+      "paywall": 0,
+      "predictedDiamond": -17.85332482,
+      "reads": 17187,
+      "predictedEuros": -124.9732738
+    },
+    {
+      "id": 200000623514,
+      "title": "Iran pidätti turisteja ja passitti heidät paha­maineiseen vankilaan – uskaltaako Teheraniin nyt matkustaa?",
+      "paywall": 0,
+      "predictedDiamond": -17.88597732,
+      "reads": 10473,
+      "predictedEuros": -125.2018412
+    },
+    {
+      "id": 200000623478,
+      "title": "Poliisi varoittaa nuoria ”läpällä” tehdyistä koulu-uhkauksista: selittely ei auta, tapaukset voidaan viedä syyttäjälle ja lastensuojeluun",
+      "paywall": 0,
+      "predictedDiamond": -18.98380023,
+      "reads": 3864,
+      "predictedEuros": -132.8866016
+    },
+    {
+      "id": 200000623462,
+      "title": "Saudi-Arabia tuomitsee Netanjahun vaali­lupaukset Jordan­laakson liittämisestä osaksi Israelia",
+      "paywall": 0,
+      "predictedDiamond": -19.65579931,
+      "reads": 3419,
+      "predictedEuros": -137.5905952
+    },
+    {
+      "id": 200000623465,
+      "title": "Cristiano Ronaldo iski neljä ja murskasi ennätyksiä, Englanti kaatoi Kosovon yllättävässä kahdeksan maalin ilotulituksessa",
+      "paywall": 0,
+      "predictedDiamond": -20.94526384,
+      "reads": 4092,
+      "predictedEuros": -146.6168469
+    },
+    {
+      "id": 200000623535,
+      "title": "Väärään osoitteeseen lähetetty posti­paketti paljastui huume­lähetykseksi Itä-Uudellamaalla",
+      "paywall": 0,
+      "predictedDiamond": -20.96087659,
+      "reads": 3780,
+      "predictedEuros": -146.7261361
+    },
+    {
+      "id": 200000623528,
+      "title": "Sveitsi peruutti kansalaisuuden ensi kerran vuosi­kymmeniin: Isis-järjestön värvääjä karkotetaan toden­näköisesti maasta",
+      "paywall": 0,
+      "predictedDiamond": -22.12010089,
+      "reads": 3176,
+      "predictedEuros": -154.8407062
+    },
+    {
+      "id": 200000623520,
+      "title": "Margaret Atwoodin Testamentit-romaania sovitellaan televisioon",
+      "paywall": 0,
+      "predictedDiamond": -24.92945769,
+      "reads": 1338,
+      "predictedEuros": -174.5062039
+    },
+    {
+      "id": 200000623551,
+      "title": "Kestävyysjuoksija Sara Kuivisto ja moukarinheittäjä Krista Tervo lähtevät Dohan MM-kisoihin: ”Iso kivi vierähti sydämeltä”",
+      "paywall": 0,
+      "predictedDiamond": -25.77047108,
+      "reads": 1380,
+      "predictedEuros": -180.3932976
+    },
+    {
+      "id": 200000623544,
+      "title": "Chelsea-tähti Tammy Abraham CNN:n haastattelussa: ”Äitini oli kyynelissä rasistisesta kiusaamisesta”",
+      "paywall": 0,
+      "predictedDiamond": -26.42311696,
+      "reads": 1128,
+      "predictedEuros": -184.9618187
+    },
+    {
+      "id": 200000623569,
+      "title": "Rory McIlroy on PGA-golfkiertueen vuoden pelaaja – Jack Nicklaus ojensi Jack Nicklaus -palkinnon pohjoisirlantilaiselle",
+      "paywall": 0,
+      "predictedDiamond": -28.99043554,
+      "reads": 596,
+      "predictedEuros": -202.9330488
+    },
+    {
+      "id": 200000623570,
+      "title": "Trump haluaa kieltää maku­sähkötupakoiden myynnin: USA:ssa useita kuolemia on liitetty sähkö­tupakointiin",
+      "paywall": 0,
+      "predictedDiamond": -29.40287169,
+      "reads": 1471,
+      "predictedEuros": -205.8201019
+    },
+    {
+      "id": 200000623554,
+      "title": "Venäläiselle viiden vuoden tuomio vakoilusta Virossa",
+      "paywall": 0,
+      "predictedDiamond": -30.22064822,
+      "reads": 1557,
+      "predictedEuros": -211.5445375
+    },
+    {
+      "id": 200000623485,
+      "title": "Sekava mies kävi rehtorin kimppuun koulussa Porvoossa: ”Ensimmäinen kerta, että joku ulkopuolinen tulee häiriköimään koulun pihalle”",
+      "paywall": 0,
+      "predictedDiamond": -35.87706527,
+      "reads": 13388,
+      "predictedEuros": -251.1394569
+    },
+    {
+      "id": 200000623542,
+      "title": "Suomalaislentäjät pyrkivät ultrakevyellä koneella Espanjaan, kone tuhoutui täysin turmassa Saksassa",
+      "paywall": 0,
+      "predictedDiamond": -38.06685824,
+      "reads": 13618,
+      "predictedEuros": -266.4680077
+    },
+    {
+      "id": 200000623479,
+      "title": "Airiston elokuisen vene­onnettomuuden tutkinta etenee, törmäyksen syy edelleen epäselvä",
+      "paywall": 0,
+      "predictedDiamond": -41.67833518,
+      "reads": 4007,
+      "predictedEuros": -291.7483463
+    },
+    {
+      "id": 200000623476,
+      "title": "Pääministeri Rinne: Sote-uudistusta ei saada ”ihan loppuun” asti, koska 4 000:ta uutta lääkäriä ja hoitajaa varten ei ole tarpeeksi rahaa",
+      "paywall": 0,
+      "predictedDiamond": -41.82077448,
       "reads": 9394,
-      "predictedEuros": 300.02549607
+      "predictedEuros": -292.7454213
     },
     {
-      "id": 18,
-      "title": "Arvostettu tiedelehti: Teinipoika sokeutui syötyään vuosikausia pelkkää roskaruokaa Britanniassa",
-      "paywall": false,
-      "predictedDiamond": 40.638226345,
-      "reads": 19733,
-      "predictedEuros": 284.46758441
+      "id": 200000623567,
+      "title": "Jensen tahditti Jokereille voiton vieraspeliavauksesta, MM-sankari Anttila sai avauspisteen",
+      "paywall": 0,
+      "predictedDiamond": -43.05961866,
+      "reads": 815,
+      "predictedEuros": -301.4173306
     },
     {
-      "id": 19,
-      "title": "Jätkäsaaren piti olla vihreä kaupunginosa, mutta pihat uhrattiin pysäköintihallien kansiksi, syyttää professori – ”Helsinkiä rakennetaan pääomasijoittajien ehdoilla”",
-      "paywall": true,
-      "predictedDiamond": 40.199009386,
-      "reads": 26632,
-      "predictedEuros": 281.39306571
+      "id": 200000623546,
+      "title": "Oikeusministeriö: Tietokatkoksessa kadonneista rikostuomioista 40 on vanhentunut, joukossa ei vankeustuomioita",
+      "paywall": 0,
+      "predictedDiamond": -43.37001505,
+      "reads": 4553,
+      "predictedEuros": -303.5901053
     },
     {
-      "id": 20,
-      "title": "Synkkä päivä pääministeri Boris Johnsonille: Alahuone tyrmäsi esityksen vaaleista ja äänesti äkki­eron estävän brexit-lain puolesta äänin 327–299",
-      "paywall": false,
-      "predictedDiamond": 38.354741213,
-      "reads": 98065,
-      "predictedEuros": 268.48318849
+      "id": 200000623555,
+      "title": "Brexit-sodan kylkeen syntyi oikeustaistelujen suma: Skotlannin oikeusistuin pitää parlamentin pakkolomaa laittomana ja katsoo Johnsonin johtaneen harhaan kuningatarta",
+      "paywall": 0,
+      "predictedDiamond": -49.90220858,
+      "reads": 7777,
+      "predictedEuros": -349.31546
     },
     {
-      "id": 21,
-      "title": "Yksi viini on pysynyt hittinä 15 vuotta – HS:n testissä esiin nousi kaksi kärkisuosikkia",
-      "paywall": true,
-      "predictedDiamond": 36.391735209,
-      "reads": 54003,
-      "predictedEuros": 254.74214646
+      "id": 200000623557,
+      "title": "Kaksi suomalaisyliopistoa mukana kansain­välisessä vertailussa: Helsingin yliopiston sijoitus nousi ja Aalto-yliopiston sijoitus laski",
+      "paywall": 0,
+      "predictedDiamond": -50.78872473,
+      "reads": 12318,
+      "predictedEuros": -355.5210731
     },
     {
-      "id": 22,
-      "title": "”Se on yhtä helvettiä, mutta se on mun duunia”",
-      "paywall": false,
-      "predictedDiamond": 35.79949212,
-      "reads": 22789,
-      "predictedEuros": 250.59644484
+      "id": 200000623496,
+      "title": "Kaliforniassa hyväksyttiin laki, joka uhkaa Uberin liike­toiminta­mallia",
+      "paywall": 0,
+      "predictedDiamond": -57.64266641,
+      "reads": 10310,
+      "predictedEuros": -403.4986649
     },
     {
-      "id": 23,
-      "title": "Joukko aikakauslehtiä siirtyy Helsingin Sanomien yhteyteen – Näin Sanoma järjestelee tuttuja mediatuotteita",
-      "paywall": false,
-      "predictedDiamond": 33.749258083,
-      "reads": 4564,
-      "predictedEuros": 236.24480658
+      "id": 200000623545,
+      "title": "Miten merkittävä Urpilaisen salkku on? Saivatko suuret maat paremmat pestit? HS vastaa viiteen tärkeään kysymykseen uusista EU-johtajista",
+      "paywall": 0,
+      "predictedDiamond": -61.84908536,
+      "reads": 7623,
+      "predictedEuros": -432.9435975
     },
     {
-      "id": 24,
-      "title": "Eva Wahlström on onnellisimmillaan tappion jälkeen, ja siihen on selkeä syy",
-      "paywall": false,
-      "predictedDiamond": 31.90041902,
-      "reads": 8570,
-      "predictedEuros": 223.30293314
+      "id": 200000623464,
+      "title": "Kirjeenvaihtajan kommentti: Mitä John Boltonin lähdöstä seuraa?",
+      "paywall": 0,
+      "predictedDiamond": -64.15614116,
+      "reads": 13167,
+      "predictedEuros": -449.0929881
     },
     {
-      "id": 25,
-      "title": "Opettaja tarttui kiinni luokkakavereitaan lyöneeseen tokaluokkalaiseen ja sai pikapotkut: Kerava vie kiistan korkeimpaan hallinto-oikeuteen",
-      "paywall": false,
-      "predictedDiamond": 31.43149453,
-      "reads": 15447,
-      "predictedEuros": 220.02046171
+      "id": 200000623452,
+      "title": "Pörssiin, Posti-vero vai nykymeno? Postin tulevaisuus voidaan hoitaa ainakin kolmella tavalla",
+      "paywall": 0,
+      "predictedDiamond": -70.75267323,
+      "reads": 7252,
+      "predictedEuros": -495.2687126
     },
     {
-      "id": 26,
-      "title": "Von Rosen -monumentti Hämeenlinnan torilla",
-      "paywall": false,
-      "predictedDiamond": 31.184492064,
-      "reads": 1481,
-      "predictedEuros": 218.29144445
-    },
-    {
-      "id": 27,
-      "title": "Keskelle 70-lukulaista espoolaislähiötä on piilotettu salainen helmi: pääkaupunki­seudun pienin uimahalli",
-      "paywall": false,
-      "predictedDiamond": 28.077005105,
-      "reads": 23819,
-      "predictedEuros": 196.53903573
-    },
-    {
-      "id": 28,
-      "title": "Romanivaikuttaja Angelica Vironen läksyttää ja kuuntelee romaninuoria Myyrmäessä: ”Mikset ole koulussa?”",
-      "paywall": false,
-      "predictedDiamond": 27.740657495,
-      "reads": 31700,
-      "predictedEuros": 194.18460247
-    },
-    {
-      "id": 29,
-      "title": "Puhetapa saattaa olla Jussi Halla-ahon suosion salaisuus",
-      "paywall": false,
-      "predictedDiamond": 22.546103477,
-      "reads": 37018,
-      "predictedEuros": 157.82272434
-    },
-    {
-      "id": 30,
-      "title": "Lennätkö britti­yhtiöllä, teetkö ostoksia britti­verkkokaupassa? Näin Britannian sopimukseton ero EU:sta vaikuttaisi suomalaisiin",
-      "paywall": false,
-      "predictedDiamond": 21.733766985,
-      "reads": 12054,
-      "predictedEuros": 152.13636889
-    },
-    {
-      "id": 31,
-      "title": "H. P. Lovecraft oli rasisti, mutta hänen teoksensa inspiroivat tänäkin vuonna pelejä ja näytelmän: mikä kauhukirjallisuuden klassikossa jaksaa kiehtoa?",
-      "paywall": false,
-      "predictedDiamond": 19.132742797,
-      "reads": 1092,
-      "predictedEuros": 133.92919958
-    },
-    {
-      "id": 32,
-      "title": "Alansa suurin yksityinen katkaisi kesällä vammaisilta terveyspalvelut täysin yllättäen – ”Lapsen lääkitystä oli jäljellä kahdeksi päiväksi”",
-      "paywall": false,
-      "predictedDiamond": 17.522178905,
-      "reads": 28324,
-      "predictedEuros": 122.65525234
-    },
-    {
-      "id": 33,
-      "title": "Poliisi antoi lisätietoa Espoon Tapiolassa ryöstelleestä nuorisojengistä: Nuorin epäillyistä vain 12-vuotias",
-      "paywall": false,
-      "predictedDiamond": 16.589272854,
-      "reads": 13404,
-      "predictedEuros": 116.12490998
-    },
-    {
-      "id": 34,
-      "title": "Huippuhyökkääjä Romelu Lukaku joutui rasistisen apinaääntelyn kohteeksi, omilta faneilta käsittämätön avoin kirje: ”Rasismi ei ole oikea ongelma Italiassa”",
-      "paywall": false,
-      "predictedDiamond": 15.727149974,
-      "reads": 5708,
-      "predictedEuros": 110.09004982
-    },
-    {
-      "id": 35,
-      "title": "Florida suojautui Dorian-myrskyn pelossa, Bahaman pää­ministeri kuvaili hurrikaania ”suurimmaksi kansalliseksi kriisiksi maan historiassa”",
-      "paywall": false,
-      "predictedDiamond": 15.355565371,
-      "reads": 14384,
-      "predictedEuros": 107.4889576
-    },
-    {
-      "id": 36,
-      "title": "Britannia hukkasi lyhyessä ajassa EU:sta saamansa hyödyn ja kadotti kansanvallan idean",
-      "paywall": true,
-      "predictedDiamond": 14.053895424,
-      "reads": 17928,
-      "predictedEuros": 98.37726797
-    },
-    {
-      "id": 37,
-      "title": "Espanjan entinen alppitähti ja olympiamitalisti Fernandez Ochoa löydetty kuolleena",
-      "paywall": false,
-      "predictedDiamond": 13.256005001,
-      "reads": 5572,
-      "predictedEuros": 92.792035009
-    },
-    {
-      "id": 38,
-      "title": "Desantti Arvi Tikka souti Äänisjärven yli Suomeen tekemään pahoja ja jäi heti kiinni – Lukijat paljastivat kohtalon",
-      "paywall": false,
-      "predictedDiamond": 12.836421743,
-      "reads": 9183,
-      "predictedEuros": 89.854952199
-    },
-    {
-      "id": 39,
-      "title": "Rajavartiolaitoksen päällikkö Ilkka Laitinen jättää tehtävänsä vakavan sairauden vuoksi",
-      "paywall": false,
-      "predictedDiamond": 12.007787665,
-      "reads": 11950,
-      "predictedEuros": 84.054513655
-    },
-    {
-      "id": 40,
-      "title": "Eurooppa kiihdyttää Britannian äkkieroon varautumista",
-      "paywall": false,
-      "predictedDiamond": 10.414303971,
-      "reads": 12365,
-      "predictedEuros": 72.9001278
-    },
-    {
-      "id": 41,
-      "title": "Koska pistoolit ja puukot kiellettiin iltamissa Suomessa? – Tätä ja vähän muutakin udellaan tänään Uutisgurussa",
-      "paywall": false,
-      "predictedDiamond": 9.7075372353,
-      "reads": 971,
-      "predictedEuros": 67.952760647
-    },
-    {
-      "id": 42,
-      "title": "Rikas ystävä vai salakavala sortaja? Suomi on päässyt Kiinan vaikutus­yritysten suhteen vähällä, mutta sen pimeä puoli näkyy myös täällä",
-      "paywall": false,
-      "predictedDiamond": 9.2315374294,
-      "reads": 9533,
-      "predictedEuros": 64.620762006
-    },
-    {
-      "id": 43,
-      "title": "Ministeri Paateron lupaus sai ammattiliitto Paun keskeyttämään postialan lakon – Rinne kuvaa Postin johtajien palkkakehitystä ”järkyttäväksi”",
-      "paywall": false,
-      "predictedDiamond": 7.3161133554,
-      "reads": 11236,
-      "predictedEuros": 51.212793488
-    },
-    {
-      "id": 44,
-      "title": "Miksi tuhannet suomalaiset olivat Neuvostoliitossa 1930-luvulla? Poliittinen vaino oli Suomessa siunattu lailla",
-      "paywall": false,
-      "predictedDiamond": 5.9396525356,
-      "reads": 9338,
-      "predictedEuros": 41.577567749
-    },
-    {
-      "id": 45,
-      "title": "Veljeä epäillään kolmoissurmaajaksi, olympiavoittaja Simone Biles esitti surunvalittelunsa kuolleiden omaisille",
-      "paywall": false,
-      "predictedDiamond": 5.8458283993,
-      "reads": 8864,
-      "predictedEuros": 40.920798795
-    },
-    {
-      "id": 46,
-      "title": "Onko keikalle pääsy ollut ikinä näin vaikeaa? Supersuositun Ariana Granden Helsingin konsertissa poikkeukselliset turvatoimet",
-      "paywall": false,
-      "predictedDiamond": 5.3698221522,
-      "reads": 10408,
-      "predictedEuros": 37.588755065
-    },
-    {
-      "id": 47,
-      "title": "Kannabisviljelmä kerrostalon katolla paljastui Espanjan ympäriajoa kuvanneen helikopterin ansiosta",
-      "paywall": false,
-      "predictedDiamond": 4.6973435815,
-      "reads": 4889,
-      "predictedEuros": 32.88140507
-    },
-    {
-      "id": 48,
-      "title": "Katutyö tuo taas lisää ruuhkia Jätkäsaareen",
-      "paywall": false,
-      "predictedDiamond": 3.3053662484,
-      "reads": 3030,
-      "predictedEuros": 23.137563739
-    },
-    {
-      "id": 49,
-      "title": "Ilmakuvat paljastavat lohduttoman näyn Bahamalta – floridalainen puutarhuri järjesti 40 lento­konetta kuljettamaan apua tuhoutuneille saarille",
-      "paywall": false,
-      "predictedDiamond": 2.6973055704,
-      "reads": 32971,
-      "predictedEuros": 18.881138993
-    },
-    {
-      "id": 50,
-      "title": "Juventus hankki pohjoiskorealaisen pelaajan",
-      "paywall": false,
-      "predictedDiamond": 2.3833336512,
-      "reads": 871,
-      "predictedEuros": 16.683335558
-    },
-    {
-      "id": 51,
-      "title": "Kadonnut suihkulähde löytyi sattumalta murskeen alta: Nyt kovia kokenut ”Kartsin paasi” pestään puhtaaksi kansanjuhlassa",
-      "paywall": false,
-      "predictedDiamond": 1.645222022,
-      "reads": 7345,
-      "predictedEuros": 11.516554154
-    },
-    {
-      "id": 52,
-      "title": "Kirjailija Juha Itkonen uuden Taideneuvoston johtoon",
-      "paywall": false,
-      "predictedDiamond": -0.08719942,
-      "reads": 1038,
-      "predictedEuros": -0.610395941
-    },
-    {
-      "id": 53,
-      "title": "NHL-asiantuntija: Patrik Laineen ja Mikko Rantasen sopimusneuvotteluissa erilaiset ongelmakohdat",
-      "paywall": false,
-      "predictedDiamond": -0.396592552,
-      "reads": 7125,
-      "predictedEuros": -2.776147867
-    },
-    {
-      "id": 54,
-      "title": "Olli Palola näytti rangaistuslaukauksen mallia KHL:n avauskierroksella, nöyryytettävänä Juha Metsola – ”Tuo on oikeastaan vähän julmaa”",
-      "paywall": false,
-      "predictedDiamond": -0.748109461,
-      "reads": 2718,
-      "predictedEuros": -5.236766229
-    },
-    {
-      "id": 55,
-      "title": "Suomalaiselokuvan juliste muistuttaa tuoreen amerikkalais­elokuvan mainosta hätkähdyttävän paljon, ja juonikin on samankaltainen",
-      "paywall": false,
-      "predictedDiamond": -2.949655879,
-      "reads": 10603,
-      "predictedEuros": -20.64759115
-    },
-    {
-      "id": 56,
-      "title": "Vastaremontoidun Alppilan lukion seinät töhrittiin heti: mikään ei näytä auttavan eikä kameravalvonta ole edes sallittua",
-      "paywall": false,
-      "predictedDiamond": -3.861194153,
-      "reads": 9464,
-      "predictedEuros": -27.02835907
-    },
-    {
-      "id": 57,
-      "title": "Google maksaa 170 miljoonaa dollaria sovitteluna lasten tietojen hankkimisesta Youtube-palvelusta",
-      "paywall": false,
-      "predictedDiamond": -5.353071957,
-      "reads": 2227,
-      "predictedEuros": -37.4715037
-    },
-    {
-      "id": 58,
-      "title": "Robin Lod tuntee Huuhkajien torstain vastuksen: ”Kreikka kaatuu sillä pelillä, mitä olemme pelanneet”",
-      "paywall": false,
-      "predictedDiamond": -6.524586522,
-      "reads": 742,
-      "predictedEuros": -45.67210566
-    },
-    {
-      "id": 59,
-      "title": "Yllättävä lehti-ilmoitus: EU pyytää pikavauhdilla vihjeitä suurista toimistoista Helsingin ydinkeskustassa, vinkit kryptiseen sähköpostiosoitteeseen",
-      "paywall": false,
-      "predictedDiamond": -8.027939931,
-      "reads": 11782,
-      "predictedEuros": -56.19557951
-    },
-    {
-      "id": 60,
-      "title": "Belinda Bencicin tennisrankkaus romahti pari vuotta sitten monta sataa sijaa ja nyt hän pelaa US Openin välierissä",
-      "paywall": false,
-      "predictedDiamond": -8.169919506,
-      "reads": 638,
-      "predictedEuros": -57.18943654
-    },
-    {
-      "id": 61,
-      "title": "Sähköpotkulauta­yritys pelästyi kaahailusta syntynyttä kohua: Lautoihin asennetaan Helsingissä nopeusrajoittimet",
-      "paywall": false,
-      "predictedDiamond": -11.38722643,
-      "reads": 27038,
-      "predictedEuros": -79.710585
-    },
-    {
-      "id": 62,
-      "title": "Korkeasaari tutkii amurinleopardien vapauttamista luontoon",
-      "paywall": false,
-      "predictedDiamond": -11.49951941,
-      "reads": 3513,
-      "predictedEuros": -80.49663584
-    },
-    {
-      "id": 63,
-      "title": "Satelliitit välttivät avaruuskolarin: Euroopan avaruusjärjestö väisti, kun Tesla-miljardöörin SpaceX-yhtiö ei suostunut",
-      "paywall": false,
-      "predictedDiamond": -11.61262954,
-      "reads": 19744,
-      "predictedEuros": -81.2884068
-    },
-    {
-      "id": 64,
-      "title": "Laulaja Olli Lindholmin kuolema herätti terveys­huolen, miehet hakeutuvat uniapnea­hoitoon ja sairaaloissa tehdään ylitöitä",
-      "paywall": false,
-      "predictedDiamond": -12.40984635,
-      "reads": 20846,
-      "predictedEuros": -86.86892445
-    },
-    {
-      "id": 65,
-      "title": "Norjassa epo-käry, huippunyrkkeilijä kiistää käytön ja vetoaa muun muassa rahanpuutteeseen",
-      "paywall": false,
-      "predictedDiamond": -13.05161162,
-      "reads": 2122,
-      "predictedEuros": -91.36128136
-    },
-    {
-      "id": 66,
-      "title": "Helsinkiläinen Anna Laine jäi lapsensa kanssa jumiin palohälytyksen vuoksi tyhjennettyyn Rediin: ”Eniten olin huolissani pyörätuolilla liikkuneesta miehestä”",
-      "paywall": false,
-      "predictedDiamond": -13.50489184,
-      "reads": 10724,
-      "predictedEuros": -94.53424291
-    },
-    {
-      "id": 67,
-      "title": "Posti kiistää: Lehdenjakelu ei ole loppumassa vuonna 2025",
-      "paywall": false,
-      "predictedDiamond": -13.84380315,
-      "reads": 18437,
-      "predictedEuros": -96.90662203
-    },
-    {
-      "id": 68,
-      "title": "Moottoripyöräilijä kuoli törmättyään rekan perään Kannuksessa",
-      "paywall": false,
-      "predictedDiamond": -14.18993011,
-      "reads": 1902,
-      "predictedEuros": -99.3295108
-    },
-    {
-      "id": 69,
-      "title": "Justin Bieber kertoo nyt, miten lapsitähteys oli pilata hänen elämänsä: ”Minusta tuli pilkatuin, tuomituin ja vihatuin ihminen maailmassa”",
-      "paywall": false,
-      "predictedDiamond": -14.92864011,
-      "reads": 7439,
-      "predictedEuros": -104.5004808
-    },
-    {
-      "id": 70,
-      "title": "Suomen miesten lentopallo­maajoukkue väläytti viemällä erän mutta hävisi Italialle",
-      "paywall": false,
-      "predictedDiamond": -17.46139168,
-      "reads": 328,
-      "predictedEuros": -122.2297417
-    },
-    {
-      "id": 71,
-      "title": "Legendaaristen naisasianaisten esineistöä myydään harvinaisessa huutokaupassa Helsingissä: ”Nämä ovat feminististä historiaa”",
-      "paywall": false,
-      "predictedDiamond": -17.9077097,
-      "reads": 4780,
-      "predictedEuros": -125.3539679
-    },
-    {
-      "id": 72,
-      "title": "Uusi valaslaji löytyi Japanin rannikolta",
-      "paywall": false,
-      "predictedDiamond": -18.6524816,
-      "reads": 12200,
-      "predictedEuros": -130.5673712
-    },
-    {
-      "id": 73,
-      "title": "Huipputuloisia tutkinut Anu Kantola: ”Meille on uinut demokratia­vastaisuus”",
-      "paywall": false,
-      "predictedDiamond": -19.30208244,
-      "reads": 46190,
-      "predictedEuros": -135.1145771
-    },
-    {
-      "id": 74,
-      "title": "Tuomas Sammelvuolle unelmasopimus suurseura Pietarin Zenitiin",
-      "paywall": false,
-      "predictedDiamond": -19.39082187,
-      "reads": 4118,
-      "predictedEuros": -135.7357531
-    },
-    {
-      "id": 75,
-      "title": "Oikeus: Obaman ja Clintonin neuvonantajana toiminut Greg Craig ei antanut väärää tietoa Ukraina-yhteyksistään",
-      "paywall": false,
-      "predictedDiamond": -21.09907391,
-      "reads": 710,
-      "predictedEuros": -147.6935174
-    },
-    {
-      "id": 76,
-      "title": "Kimi Räikkönen onnitteli hääpäiväänsä viettänyttä pariskuntaa, joka tapasi Räikkös-fanifoorumilla: ”Kuka tarvitsee Tinderiä”",
-      "paywall": false,
-      "predictedDiamond": -22.8865826,
-      "reads": 5834,
-      "predictedEuros": -160.2060782
-    },
-    {
-      "id": 77,
-      "title": "Jim Courier nousi tennismaailman ykköseksi, nyt hän rakentaa isoa turnausten sarjaa huipulle pyrkiville pelaajille",
-      "paywall": false,
-      "predictedDiamond": -23.44081954,
-      "reads": 1133,
-      "predictedEuros": -164.0857368
-    },
-    {
-      "id": 78,
-      "title": "Yhdysvallat käy nyt absurdeja neuvotteluja vihollisensa Talebanin kanssa pysäyttääkseen al-Qaidan ja Isisin",
-      "paywall": false,
-      "predictedDiamond": -23.61097911,
-      "reads": 5674,
-      "predictedEuros": -165.2768538
-    },
-    {
-      "id": 79,
-      "title": "Boris Johnson uhkaa viedä Britannian ennen­aikaisiin vaaleihin brexit-kapinallisten erävoiton jälkeen – pää­ministerillä on tähän kolme tietä",
-      "paywall": false,
-      "predictedDiamond": -24.30863376,
-      "reads": 28404,
-      "predictedEuros": -170.1604363
-    },
-    {
-      "id": 80,
-      "title": "Britannian rajavartiosto nappasi laivasta ennätyssaaliin: 1,3 tonnia heroiinia",
-      "paywall": false,
-      "predictedDiamond": -26.19223047,
-      "reads": 3746,
-      "predictedEuros": -183.3456133
-    },
-    {
-      "id": 81,
-      "title": "EKP:n tuleva pääjohtaja Christine Lagarde haluaisi selvityksen raha­politiikan vaikutuksista ja lisää huomiota ilmaston­muutoksen torjuntaan",
-      "paywall": false,
-      "predictedDiamond": -26.34634939,
-      "reads": 839,
-      "predictedEuros": -184.4244457
-    },
-    {
-      "id": 82,
-      "title": "Hongkong luopuu kiistanalaisesta lakialoitteesta ja lupaa selvittää levottomuuksien perimmäiset syyt",
-      "paywall": false,
-      "predictedDiamond": -28.40133576,
-      "reads": 12952,
-      "predictedEuros": -198.8093503
-    },
-    {
-      "id": 83,
-      "title": "Matkatoimisto valitsi Suomen maailman parhaaksi luontomatkakohteeksi, vaikka Suomi ei ollut millään kriteerillä paras",
-      "paywall": false,
-      "predictedDiamond": -28.46227259,
-      "reads": 9402,
-      "predictedEuros": -199.2359081
-    },
-    {
-      "id": 84,
-      "title": "Asap Rocky ei valita Ruotsissa saamastaan pahoinpitelytuomiosta",
-      "paywall": false,
-      "predictedDiamond": -28.56907505,
-      "reads": 1073,
-      "predictedEuros": -199.9835254
-    },
-    {
-      "id": 85,
-      "title": "Iran vapautti osan Stena Impero -aluksen miehistöstä, Suomen auttama latvialainen vapautettujen joukossa",
-      "paywall": false,
-      "predictedDiamond": -29.01637291,
-      "reads": 1029,
-      "predictedEuros": -203.1146104
-    },
-    {
-      "id": 86,
-      "title": "Kouluterveyden­huollon terveystarkastuksissa suuria vaihteluja: Tapaamisin käytetyissä ajoissa jopa puolentoista tunnin ero",
-      "paywall": false,
-      "predictedDiamond": -29.73687262,
-      "reads": 2022,
-      "predictedEuros": -208.1581083
-    },
-    {
-      "id": 87,
-      "title": "Suomi tyrmää Kouri-kauppojen bulvaanina toimineen liikemies Fryckmanin vaateen välitys­tuomio­istuimeen pääsystä",
-      "paywall": false,
-      "predictedDiamond": -30.65205479,
-      "reads": 5144,
-      "predictedEuros": -214.5643835
-    },
-    {
-      "id": 88,
-      "title": "Kansallisarkisto kartoittaa, tarvitaanko Stalinin vainojen suomalais­uhreista tutkimusta",
-      "paywall": false,
-      "predictedDiamond": -30.72407185,
-      "reads": 1840,
-      "predictedEuros": -215.0685029
-    },
-    {
-      "id": 89,
-      "title": "1,3 miljoonalle suomalaiselle maksetaan tänään veronpalautukset",
-      "paywall": false,
-      "predictedDiamond": -32.41720968,
-      "reads": 3937,
-      "predictedEuros": -226.9204677
-    },
-    {
-      "id": 90,
-      "title": "Anu Ubaud Helsingin Sanomien toiseksi päätoimittajaksi – suositut aikakaus­lehdet vahvistamaan HS:n sisältötarjontaa",
-      "paywall": false,
-      "predictedDiamond": -33.13683117,
-      "reads": 23713,
-      "predictedEuros": -231.9578182
-    },
-    {
-      "id": 91,
-      "title": "Saksa aikoo kieltää torjunta-aine glyfosaatin käytön vuoden 2023 lopussa",
-      "paywall": false,
-      "predictedDiamond": -34.49686076,
-      "reads": 2168,
-      "predictedEuros": -241.4780253
-    },
-    {
-      "id": 92,
-      "title": "Alppitähti Marcel Hirscher kertoi lopettamisestaan: ”Tänään on se päivä, kun päätän urani”",
-      "paywall": false,
-      "predictedDiamond": -35.01971345,
-      "reads": 1568,
-      "predictedEuros": -245.1379941
-    },
-    {
-      "id": 93,
-      "title": "EU-komissio brexitistä: äkkiero entistä todennäköisempi, lähes 800 miljoonaa euroa valmiina käyttöön",
-      "paywall": false,
-      "predictedDiamond": -35.11853941,
-      "reads": 15613,
-      "predictedEuros": -245.8297759
-    },
-    {
-      "id": 94,
-      "title": "Kontinen ja Schuurs putosivat US Openin sekanelinpelistä: ”Olisi voinut mennä miten päin tahansa”",
-      "paywall": false,
-      "predictedDiamond": -36.70852063,
-      "reads": 526,
-      "predictedEuros": -256.9596444
-    },
-    {
-      "id": 95,
-      "title": "Valvoja piti Lähi-Tapiolan pääjohtajaksi valittua epäpätevänä – Näillä perusteilla viranomainen voi puuttua yksityisen yhtiön johtajavalintaan",
-      "paywall": false,
-      "predictedDiamond": -38.00858963,
-      "reads": 9395,
-      "predictedEuros": -266.0601274
-    },
-    {
-      "id": 96,
-      "title": "Irtisanoutunut Metsähallituksen pääjohtaja saa läksiäisiksi yli 200 000 euroa ja tulospalkkiot",
-      "paywall": false,
-      "predictedDiamond": -38.86624667,
-      "reads": 7548,
-      "predictedEuros": -272.0637267
-    },
-    {
-      "id": 97,
-      "title": "Tennislahjakkuus Grigor Dimitrov sai vihdoinkin voiton Federeristä US Openissa, kaikki muut maailmantähdet hän olikin voittanut",
-      "paywall": false,
-      "predictedDiamond": -40.78465258,
-      "reads": 2767,
-      "predictedEuros": -285.492568
-    },
-    {
-      "id": 98,
-      "title": "Politiikan uutiset nostivat pörssikursseja maailmalla – Hongkongissa indeksi nousi jopa neljä prosenttia",
-      "paywall": false,
-      "predictedDiamond": -42.26443043,
-      "reads": 2332,
-      "predictedEuros": -295.851013
-    },
-    {
-      "id": 99,
-      "title": "Guardian: Britannia aikoo jättää hylättyjen öljyn­poraus­lauttojen rakenteita Pohjan­merelle",
-      "paywall": false,
-      "predictedDiamond": -43.48016112,
-      "reads": 11906,
-      "predictedEuros": -304.3611279
-    },
-    {
-      "id": 100,
-      "title": "Kirjeenvaihtajan kommentti: Hongkongin mielenosoittajat saivat alkuperäisen tahtonsa läpi, mutta rähinät tuskin ovat ohi",
-      "paywall": false,
-      "predictedDiamond": -45.61101154,
-      "reads": 3298,
-      "predictedEuros": -319.2770808
-    },
-    {
-      "id": 101,
-      "title": "Pääministeri Rinteen heitto Postin palvelujen kytkemisestä sote-uudistukseen herätti ihmetystä eduskunnassa",
-      "paywall": false,
-      "predictedDiamond": -49.36166627,
-      "reads": 5967,
-      "predictedEuros": -345.5316639
-    },
-    {
-      "id": 102,
-      "title": "Näin suomalaiset arvioivat Rinteen hallituksen onnistumista – keskustan kannattajat ovat epäluuloisia puolueestaan",
-      "paywall": false,
-      "predictedDiamond": -51.46453744,
-      "reads": 10636,
-      "predictedEuros": -360.2517621
-    },
-    {
-      "id": 103,
-      "title": "Ulkoministeri Haavisto FT:lle: EU:n tehostettava toimiaan Venäjän-suhteiden parantamiseksi",
-      "paywall": false,
-      "predictedDiamond": -51.82612791,
-      "reads": 2415,
-      "predictedEuros": -362.7828954
-    },
-    {
-      "id": 104,
-      "title": "Maisema kuin moukarin jäljiltä",
-      "paywall": false,
-      "predictedDiamond": -60.10420956,
-      "reads": 19988,
-      "predictedEuros": -420.7294669
-    },
-    {
-      "id": 105,
-      "title": "Nuorten tyttöjen uusin somevillitys on VSCO girl – Vanhemmat voivat hengähtää helpotuksesta, sillä kyseessä on positiivinen trendi",
-      "paywall": false,
+      "id": 200000623518,
+      "title": "Kaksi miljoonataloa on seissyt keskeneräisinä Espoossa jo kymmenen vuotta: Mistä on kyse?",
+      "paywall": 0,
       "predictedDiamond": null,
-      "reads": 54014,
+      "reads": 37714,
       "predictedEuros": null
     },
     {
-      "id": 106,
-      "title": "Olosta tuli tähtiravintola pohjoismaisilla mauilla, ja sen taidokkaat annokset ällistyttävät edelleen",
-      "paywall": false,
+      "id": 200000623525,
+      "title": "Koira ja robotti-imuri eivät ehkä sovi samaan kotiin: töissä ollut omistaja joutui seuraamaan avuttomana sotkun leviämistä",
+      "paywall": 0,
       "predictedDiamond": null,
-      "reads": 2702,
+      "reads": 40259,
       "predictedEuros": null
     },
     {
-      "id": 107,
-      "title": "Brexit muuttui viime yönä kammottavaksi sekamelskaksi, internetin onneksi olennainen tiivistyy tälle yhdelle videoklipille",
-      "paywall": false,
+      "id": 200000617877,
+      "title": "",
+      "paywall": null,
       "predictedDiamond": null,
-      "reads": 19353,
+      "reads": 1490,
       "predictedEuros": null
     },
     {
-      "id": 108,
-      "title": "Conan O’Brien menee uudessa jaksossa kysymään grönlantilaisilta, mikseivät nämä haluaisi Amerikan omistukseen: ”Te olette kaikki lihavia”",
-      "paywall": false,
+      "id": 200000618620,
+      "title": "",
+      "paywall": null,
       "predictedDiamond": null,
-      "reads": 13410,
+      "reads": 876,
       "predictedEuros": null
     },
     {
-      "id": 109,
-      "title": "Amerikkalais­koulu poisti Harry Potterit kirjastostaan, koska sen mukaan teosten loitsuilla voi vahingossa manata oikeita pahoja henkiä",
-      "paywall": false,
+      "id": 200000619276,
+      "title": "Punkkien kommando saapuu ilmakuljetuksella ja rynnäköi kohti uhriaan",
+      "paywall": 0,
       "predictedDiamond": null,
-      "reads": 13947,
+      "reads": 519,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000620003,
+      "title": "Kumimanu-pingviini ja lihan­syöjä­papukaija: Uuden-Seelannin linnusto ei lakkaa hämmästyttämästä",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 187,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000620692,
+      "title": "Pihalla voi nyt nähdä muhkeita toukkia – Puuntuhoojat tarjoilevat amiraaliperhosille alkoholia lennon aikana",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 1083,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000621445,
+      "title": "Puunhalausviikolla voi harrastaa kääpimistä – Suomessa on 251 kääpälajia, joista moni on jo uhanalainen",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 460,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623051,
+      "title": "Keskiajalla valkoposkihanhi määriteltiin kasviksi, ja sitä oli lupa syödä paaston aikana",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 698,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623276,
+      "title": "Kalaravintola Bassin runsas äyriäisvati teki vaikutuksen, mutta lounas jäi yhdentekeväksi",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 4475,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623302,
+      "title": "Koulumatkalla näin yllättäen sen, mihin epätoivo voi pahimmillaan ajaa – Onnellisuuden huippumaassa liian moni kuolee oman käden kautta",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 11080,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623364,
+      "title": "Asukkaat rakentavat vesi- ja viemäriverkostoa",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 1068,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623380,
+      "title": "Suomen some kohahti eilisyönä, kun LeBron James näytti pitävän leijonakorua – selvitimme, onko kyseessä ”aito” Suomi-leijona",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 5795,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623394,
+      "title": "Irti olleet koirat raatelivat ja jahtasivat lampaita Vantaalla: Bussikuski Anita Korhola hyppäsi autosta ja pelasti lammaslauman verilöylyltä",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 9363,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000599058,
+      "title": "",
+      "paywall": null,
+      "predictedDiamond": null,
+      "reads": 449,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623407,
+      "title": "Vantaan koululaiset ryhtyivät ”maailmanparantajiksi” ja perustivat sivuston internetiin: Somejätti Facebook blokkasi sivuston",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 12949,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623502,
+      "title": "Trump twiittasi antaneensa potkut turvallisuus­neuvonantajalleen, joka aloitti merkillisen vastakampanjan Twitterissä, televisiossa ja lehdissä – Tästä on kyse",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 10899,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623409,
+      "title": "Isot menolisäykset vievät Suomea väärälle tielle",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 14011,
+      "predictedEuros": null
+    },
+    {
+      "id": 200000623505,
+      "title": "Billie Eilish, 17, joutui kohun keskipisteeksi viraaliksi menneen toppikuvan takia, kommentoi nyt ensimmäistä kertaa",
+      "paywall": 0,
+      "predictedDiamond": null,
+      "reads": 77307,
       "predictedEuros": null
     }
   ]

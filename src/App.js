@@ -1,12 +1,13 @@
 import React from 'react';
 import { FaRobot, FaRegSmileWink, FaGem, FaRegGem } from 'react-icons/fa';
-import { Ribbon } from 'react-dev-ribbon';
+import { DismissibleRibbon } from 'react-dev-ribbon';
 import ArticleTable from './components/ArticleTable';
+import config from './config/config';
 
 const App = () => {
   return (
     <div className="App">
-      <Ribbon />
+      <DismissibleRibbon children={'DEMO'} />
       <h1 className="title">
         <FaGem />
         &nbsp;

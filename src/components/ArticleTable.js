@@ -5,6 +5,8 @@ import 'react-table/react-table.css';
 import { FaGem, FaRegGem } from 'react-icons/fa';
 import articleService from '../services/articles';
 
+import config from '../config/config';
+
 const ArticleTable = () => {
   const [articles, setArticles] = useState([]);
 
@@ -22,8 +24,20 @@ const ArticleTable = () => {
         setArticles(articles.map(a => (a.id !== id ? a : response.data)))
       );
   };
-  const DIAMOND_TRESHOLD = 75;
-  const flywall = x => x >= DIAMOND_TRESHOLD;
+
+  const flywall = x => x >= config.diamondTreshold;
+
+  const getTrProps = (state, rowInfo, instance) => {
+    if (rowInfo) {
+      const row = rowInfo.row;
+      return {
+        className:
+          flywall(row.predictedDiamond) && !row.paywall ? 'flywall' : ''
+      };
+    }
+    return {};
+  };
+
   const columns = [
     {
       Header: 'Kone',
@@ -34,7 +48,7 @@ const ArticleTable = () => {
           {flywall(row.value) ? <FaGem /> : <FaGem className="dimmed" />}
         </div>
       ),
-      maxWidth: 70,
+      maxWidth: 80,
       className: 'text-center'
     },
     {
@@ -49,7 +63,7 @@ const ArticleTable = () => {
           {row.value ? <FaRegGem /> : <FaRegGem className="dimmed" />}
         </div>
       ),
-      maxWidth: 70,
+      maxWidth: 80,
       className: 'text-center'
     },
     {
@@ -57,15 +71,7 @@ const ArticleTable = () => {
       sortable: false,
       accessor: 'title',
       Cell: row => (
-        <span
-          className={
-            row.original.paywall
-              ? 'paywall'
-              : flywall(row.original.predictedDiamond)
-              ? 'flywall'
-              : ''
-          }
-        >
+        <span className={row.original.paywall ? 'paywall' : ''}>
           {row.value}
         </span>
       ),
@@ -75,7 +81,7 @@ const ArticleTable = () => {
       Header: 'Näyte-ennuste',
       accessor: 'predictedDiamond',
       Cell: row => <span className="number">{Math.floor(row.value)}</span>,
-      maxWidth: 120,
+      maxWidth: 130,
       className: 'text-left'
     },
     {
@@ -89,12 +95,14 @@ const ArticleTable = () => {
       Header: 'Rahuliennuste',
       accessor: 'predictedEuros',
       Cell: row => <span className="number">{Math.floor(row.value)} €</span>,
-      maxWidth: 100,
+      maxWidth: 130,
       className: 'text-left'
     }
   ];
 
-  return <ReactTable className="-striped" data={articles} columns={columns} />;
+  return (
+    <ReactTable data={articles} columns={columns} getTrProps={getTrProps} />
+  );
 };
 
 export default ArticleTable;
